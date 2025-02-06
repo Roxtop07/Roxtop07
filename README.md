@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roxtop07" alt="roxtop07" /></a> </p>
 
-- 🔭 I’m currently working on [Micro-saas](https://github.com/Roxtop07/Micro-saas)
+- 🔭 I’m currently working on Face Detection using python
 
 - 🌱 I’m currently learning **React , Next , etc.**
 
-- 👯 I’m looking to collaborate on [Micro-saas](https://github.com/Roxtop07/Micro-saas)
-
-- 🤝 I’m looking for help with [Micro-saas](https://github.com/Roxtop07/Micro-saas)
+- 🤝 I’m looking for help with Hostel Huddle
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roxtop07](https://github.com/Roxtop07)
 
-- ⚡ Fun fact [I think I am lazy](I think I am lazy)
+- ⚡ Fun fact [I think I am curious](I think I am curious)
 
 - 📫 How to reach me **msrivastavmanish@gmail.com**
 
