@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on Face Detection using python
 
-- 🌱 I’m currently learning **React , Next , etc.**
+- 🌱 I’m currently learning **MERN.**
 
-- 🤝 I’m looking for help with Hostel Huddle
+- 🤝 I’m looking for help with DataSet Cleaning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roxtop07](https://github.com/Roxtop07)
 
-- ⚡ Fun fact [I think I am curious](I think I am curious)
+- ⚡ Fun fact [I think I am curious]
 
 - 📫 How to reach me **msrivastavmanish@gmail.com**
 
