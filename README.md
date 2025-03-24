@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **msrivastavmanish@gmail.com**
 
-- 📫 How to reach me **https://manish-srivastav-portfolio.b12sites.com/**
+- 📫 How to reach me **https://roxtop07.github.io/Manish/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
