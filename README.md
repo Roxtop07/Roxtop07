@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Face Detection using python
 
-- 🌱 I’m currently learning **MERN.**
+- 🌱 I’m currently learning **AI/ML.**
 
 - 🤝 I’m looking for help with DataSet Cleaning.
 
