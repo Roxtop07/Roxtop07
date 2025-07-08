@@ -11,32 +11,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Zhi Tao 👋 </h1>
+<h1 align="center">Hi, I'm Manish Srivastav 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from China </h3>
+<h3 align="center">Aspiring Full Stack Developer from India </h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
+❤️ I prefer Next.js on frontend and Next.js with MySQL and/or MongoDB and/or PostgreSQL on backend
+🤔 I'm currently working on Stock price predictor with LSTM.
 
-✨ I study: React, Kubernetes, Rust, Nodejs
+✨ I study: Nextjs,Typescript,Machine Learning , Deep Learning , DBMS
 
 
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
+- 😄 Fun fact: I'm a python developer before, worked in shopiq
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
+- 📫 How to reach me: [Email](msrivastavmanish@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
+- 3+ years of experience in HTML
+- 1+ years of experience in Python
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
+- HTML/CSS, Javascript,Python
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
@@ -96,8 +95,6 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
