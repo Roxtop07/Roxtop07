@@ -1,0 +1,19 @@
+    name: generate-snake-game-from-github-contribution-grid
+    on:
+      schedule:
+        - cron: '0 */6 * * *' # Runs every 6 hours
+      workflow_dispatch: # Allows manual triggering
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: Platane/snk@v3.2.0
+            with:
+              github_user_name: ${{ github.repository_owner }}
+              outputs: |
+                dist/github-contribution-grid-snake.svg
+                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          - uses: actions/upload-artifact@v3
+            with:
+              name: github-contribution-grid-snake-output
+              path: dist
