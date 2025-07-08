@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Manish Kumar Srivastav**, a B.Tech student passionate about building meaningful tech with AI, Machine Learning, and Software Development. I love solving real-world problems using data, code, and creativity.<br><br>My long-term vision is to work at a top company, build scalable AI products, and contribute to open-source projects that make an impact.<br><br>---<br><br>## 🧭 What Drives Me<br><br>- A passion for **continuous learning**<br>- Building real-world, practical **AI & backend solutions**<br>- Sharing knowledge and collaborating with others<br>- A dream to become one of India's leading AI Engineers by **May 2026**<br><br>---
+I'm **Manish Kumar Srivastav**, a B.Tech student passionate about building meaningful tech with AI, Machine Learning, and Software Development. I love solving real-world problems using data, code, and creativity.<br><br>My long-term vision is to work at a top company, build scalable AI products, and contribute to open-source projects that make an impact.<br><br>---<br><br>**🧭 What Drives Me**<br><br>- A passion for **continuous learning**<br>- Building real-world, practical **AI & backend solutions**<br>- Sharing knowledge and collaborating with others<br>- A dream to become one of India's leading AI Engineers by **May 2026**<br><br>---
 
 
 ## 🌐 Socials:
@@ -21,5 +21,3 @@ I'm **Manish Kumar Srivastav**, a B.Tech student passionate about building meani
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/roxtop07) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/roxtop07) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
