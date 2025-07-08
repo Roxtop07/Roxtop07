@@ -18,7 +18,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Upload animation files as artifact
-        uses: actions/upload-artifact@v5  # ✅ updated to v4
+        uses: actions/upload-artifact@v4  # ✅ updated to v4
         with:
           name: github-contribution-grid-snake-output
           path: dist
