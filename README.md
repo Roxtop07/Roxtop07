@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Manish Srivastav 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=roxtop07.roxtop07&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from India </h3>
 
 ❤️ I prefer Next.js on frontend and Next.js with MySQL and/or MongoDB and/or PostgreSQL on backend
