@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Manish Srivastav 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=roxtop07.roxtop07&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from India </h3>
+<h3 align="center">Full Stack Developer from India </h3>
 
 ❤️ I prefer Next.js on frontend and Next.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Stock price predictor with LSTM.
 
 ✨ I study: Nextjs,Typescript,Machine Learning , Deep Learning , DBMS
 
@@ -112,9 +111,6 @@ Here are some ideas to get you started:
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=roxtop07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Feeding...
-[snake gif](https://github.com/roxtop07/roxtop07/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
