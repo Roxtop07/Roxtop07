@@ -2,13 +2,14 @@
 
 # Hi, I'm Manish Srivastav 👋
 
-### 🚀 AI-Integrated Backend Engineer
-**💡 Building scalable backend systems with real AI integration**
+### 🚀 AI-Integrated Developer
+**💡 Building real AI-powered apps — not tutorials, not clones**
 **🎯 Goal: Remote Internship (₹30k+/month)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-srivastav)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Roxt-07/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/manishsrivastav)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.m4n1sh._/)
 
 </div>
 
@@ -16,11 +17,11 @@
 
 ## ⚡ About Me
 
-- 🔧 Backend-focused developer with strong **DSA & system design** fundamentals
-- 🤖 Building real-world **AI-powered applications** — RAG pipelines, APIs, automation
-- 🛠 Hands-on with **Python, FastAPI, SQL, and LLM integrations**
-- 📦 Currently focused on **scalable AI systems + production deployment**
-- 🎯 Not learning. Building.
+- 🤖 Building AI-integrated apps that actually work — gesture control, LLM tutors, smart study systems
+- 🛠 Comfortable across the stack: Python backends, TypeScript frontends, AI pipelines
+- 🧠 Hands-on with **OpenCV, Gemini AI, Claude API, Next.js, FastAPI**
+- 📐 Focused on clean architecture, real deployments, and solving real problems
+- 🎯 Not learning. Shipping.
 
 ---
 
@@ -28,52 +29,52 @@
 
 | Layer | Tools |
 |-------|-------|
-| **Languages** | Python · SQL · JavaScript · TypeScript |
-| **Backend** | FastAPI · REST APIs · JWT Auth |
-| **Databases** | PostgreSQL · Redis · FAISS |
-| **AI Stack** | OpenAI · LangChain · Hugging Face |
-| **Frontend** | Next.js |
-| **DevOps** | Docker · GitHub Actions · AWS · Render |
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **Frontend** | Next.js 14 · Tailwind CSS · Framer Motion · Recharts |
+| **Backend** | FastAPI · Flask · REST APIs · SQLite |
+| **AI Stack** | Claude (Anthropic) · Gemini AI · OpenCV · cvzone · Mediapipe |
+| **State / DB** | Zustand · SQLite (`better-sqlite3`) |
+| **Dev Tools** | Git · Vercel · VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [AI Knowledge Assistant — RAG System](https://github.com/YOUR_USERNAME/project-link)
-> Semantic search engine over custom documents with context-aware responses
+### 🔹 [AbhayParth — AI Study Companion](https://github.com/Roxtop07/AbhayParth) · [🌐 Live Demo](https://abhay-parth.vercel.app)
+> Full-stack AI-powered app for Indian competitive exam prep — built and deployed
 
-- Built with **FastAPI + OpenAI + FAISS**
-- Embedding-based retrieval with **semantic search** over custom document sets
-- Context-aware answers using **Retrieval-Augmented Generation**
-- Containerized and **deployed with Docker**
-
----
-
-### 🔹 [Stock Price Predictor](https://github.com/YOUR_USERNAME/project-link)
-> LSTM-based prediction model with a full-stack interface
-
-- Deep learning model using **LSTM architecture**
-- **Flask** backend serving predictions via REST API
-- **Next.js** frontend with real-time charting
-- Integrated with **live market data APIs**
+- **AI Tutor** — conversational doubt-solving powered by **Claude (Anthropic API)**
+- **Retention Engine** — SM-2 spaced repetition algorithm for concept review
+- **Study Lab** — YouTube video → structured notes pipeline
+- **Practice Arena** — AI-generated practice sets with performance analytics
+- **7-day Planner** — AI-generated study schedules with drag-and-drop
+- Stack: **Next.js 14 · TypeScript · Tailwind · SQLite · Zustand · Framer Motion**
 
 ---
 
-### 🔹 [AI API Platform](https://github.com/YOUR_USERNAME/project-link)
-> Multi-tool AI backend built for scale
+### 🔹 [AirDraw AI — Gesture-Based Drawing System](https://github.com/Roxtop07/AirDrawAI)
+> Touchless drawing canvas controlled entirely by hand gestures + AI analysis
 
-- Multi-endpoint backend powering several **AI tools in one platform**
-- **Authentication + rate limiting** baked in
-- Designed for **scalability and extensibility**
-- Clean API design with proper error handling and docs
+- **Real-time hand tracking** using **OpenCV + cvzone + Mediapipe**
+- Draw, erase, switch colors/brush sizes — all through gestures, zero touch
+- **Gemini AI integration** — send sketches for text recognition, math solving, image analysis
+- AI responses render directly on the canvas overlay
+- Stack: **Python · OpenCV · Flask · Gemini AI · Mediapipe**
+
+---
+
+### 🔹 [AXEL-AI](https://github.com/Roxtop07/AXEL-AI)
+> Python-based AI assistant — modular architecture, actively developed
+
+- Stack: **Python**
 
 ---
 
 ## 🎯 Current Focus
 
-- 🏗 Building **production-ready AI backend systems** from scratch to deployment
-- 📐 Deepening expertise in **system design & scalability patterns**
-- ☁️ Mastering **Docker, CI/CD, and cloud deployment** (AWS / Render)
+- 🏗 Shipping AI-integrated apps from idea → deployed product
+- 📐 Deepening skills in **system design, scalable backends, and LLM pipelines**
+- ☁️ Exploring **Docker, cloud deployment, and production-grade API design**
 
 ---
 
@@ -91,9 +92,10 @@
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- 📧 **Email:** your@email.com
+- 💼 **LinkedIn:** [manish-kumar-srivastav](https://linkedin.com/in/manish-kumar-srivastav)
+- 🧩 **LeetCode:** [Roxt-07](https://leetcode.com/u/Roxt-07/)
+- ✍️ **Dev.to:** [manishsrivastav](https://dev.to/manishsrivastav)
+- 📸 **Instagram:** [_.m4n1sh._](https://www.instagram.com/_.m4n1sh._/)
 
 ---
 
