@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [AbhayParth — AI Study Companion](https://github.com/Roxtop07/AbhayParth) · [🌐 Live Demo](https://abhay-parth.vercel.app)
+### 🔹 [AbhayParth — AI Study Companion](https://github.com/Roxtop07/AbhayParth) · [🌐 Live Demo](https://abhayparth.onrender.com)
 > Full-stack AI-powered app for Indian competitive exam prep — built and deployed
 
 - **AI Tutor** — conversational doubt-solving powered by **Claude (Anthropic API)**
