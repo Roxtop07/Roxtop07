@@ -4,7 +4,7 @@
 
 ### 🚀 AI-Integrated Developer
 **💡 Building real AI-powered apps — not tutorials, not clones**
-**🎯 Goal: Remote Internship (₹30k+/month)**
+**🎯 Goal: Internship (₹30k+/month)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-srivastav)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Roxt-07/)
