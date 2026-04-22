@@ -30,8 +30,8 @@
 | Layer | Tools |
 |-------|-------|
 | **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Frontend** | Next.js 14 · Tailwind CSS · Framer Motion · Recharts |
-| **Backend** | FastAPI · Flask · REST APIs · SQLite |
+| **Frontend** | Next.js 14 · Tailwind CSS  |
+| **Backend** | FastAPI · Dango · REST APIs · SQLite |
 | **AI Stack** | Claude (Anthropic) · Gemini AI · OpenCV · cvzone · Mediapipe |
 | **State / DB** | Zustand · SQLite (`better-sqlite3`) |
 | **Dev Tools** | Git · Vercel · VS Code |
