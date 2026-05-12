@@ -33,7 +33,7 @@
 | **Frontend** | Next.js 14 · Tailwind CSS  |
 | **Backend** | FastAPI · Dango · REST APIs · SQLite |
 | **AI Stack** | Claude (Anthropic) · Gemini AI · OpenCV · cvzone · Mediapipe |
-| **State / DB** | Zustand · SQLite (`better-sqlite3`) |
+| **State / DB** | MongoDB · SQLite (`better-sqlite3`) |
 | **Dev Tools** | Git · Vercel · VS Code |
 
 ---
